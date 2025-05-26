@@ -25,7 +25,7 @@ BLD is a sophisticated build automation tool that uses `Bldfile` configuration f
 ### Installation
 ```bash
 # Clone the repository
-git clone [git@github.com:Worcrow/Build.git](https://github.com/Worcrow/Build.git)
+git clone https://github.com/Worcrow/Build.git
 cd bld
 
 # Install dependencies
